@@ -1,5 +1,22 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BHAVYA+PRAKASH;Computer+Science+Student;Developer+%7C+Designer+%7C+Builder" />
+
+<br>
+
+<sub>building things that make people say "damn."</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00F7FF&label=VISITORS" />
+
+</div>
+
+---
+
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00F7FF&height=220&section=header&text=BHAVYA%20PRAKASH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=55&descSize=18"/>
 
 <br>
