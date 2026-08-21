@@ -9,7 +9,7 @@
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/bhav-17">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:prakashbhavya.1720@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
 </a>
 
@@ -87,11 +87,11 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/bhav-17">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=github_dark&hide_border=true"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/bhav-17">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=github_dark&hide_border=true"/>
 </a>
 
