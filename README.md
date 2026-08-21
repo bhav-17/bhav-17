@@ -1,276 +1,226 @@
-# ⚡ BHAVYA PRAKASH
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Bhavya+Prakash+%F0%9F%91%8B;First+Year+CSE+Student+%F0%9F%92%BB;I+Build.+I+Break.+I+Fix.+%F0%9F%94%A5;Future+Software+Engineer+%F0%9F%9A%80;Currently+Learning+DSA+%7C+Web+Dev+%7C+AI%2FML" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00F7FF&height=220&section=header&text=BHAVYA%20PRAKASH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=55&descSize=18"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Bhavya.exe...;%3E+Loading+developer+mode...;%3E+Building+the+future...;%3E+while+(alive)+%7B+code()%3B+%7D" />
+
+<br><br>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-### `> whoami`
+# `01` — WHO AM I?
 
 ```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║   👨‍💻  Bhavya Prakash                        ║
-║   🎓  Computer Science Student               ║
-║   🚀  Building my way into tech              ║
-║   🧠  DSA • Web Development • AI/ML          ║
-║   ⚡  Turning caffeine into code              ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   👨‍💻  BHAVYA PRAKASH                                        │
+│                                                              │
+│   Computer Science Student                                   │
+│   Developer in progress                                     │
+│   UI/UX enthusiast                                          │
+│   Problem-solving addict                                    │
+│                                                              │
+│   Currently building → skills + projects + experience        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-</div>
-
----
-
-## 🧠 CURRENTLY IN MY HEAD
-
-```diff
-+ Learning DSA from scratch
-+ Building projects that actually work
-+ Exploring Web Development
-+ Exploring AI / ML
-+ Learning Git & GitHub
-+ Trying to write cleaner code
-- Sleeping enough
-- Understanding why my code worked yesterday
-```
-
----
-
-## ⚔️ MY TECH STACK
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js&theme=dark" />
-
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" />
-
-</div>
-
----
-
-## 🛠️ WHAT I'M BUILDING
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Web Development
-
-Building modern websites with:
-
-* HTML
-* CSS
-* JavaScript
-* Responsive Design
-* UI/UX
-
-</td>
-
-<td width="50%">
-
-### 🧩 DSA
-
-Currently grinding:
-
-* Arrays
-* Strings
-* Searching
-* Sorting
-* Recursion
-* Linked Lists
-* Stacks & Queues
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 AI / ML
-
-Exploring:
-
-* Python
-* NumPy
-* Pandas
-* Machine Learning
-* AI fundamentals
-
-</td>
-
-<td width="50%">
-
-### 🎨 Design
-
-Also experimenting with:
-
-* Figma
-* UI Design
-* Landing Pages
-* Animations
-* Creative interfaces
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 THE GRIND
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 MY CONTRIBUTIONS ARE ALIVE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🚀 PROJECTS
-
-<div align="center">
-
-| Project                | Description                    | Tech             |
-| ---------------------- | ------------------------------ | ---------------- |
-| 🎓 College Assignments | Academic work & experiments    | HTML • CSS • Git |
-| 🌐 Portfolio           | Personal portfolio website     | HTML • CSS • JS  |
-| 🧩 DSA Journey         | Problems & solutions           | C++ • Python     |
-| 🎨 UI Experiments      | Creative interface experiments | Figma • CSS      |
-
-</div>
-
-> More projects loading... `████████████████░░ 80%`
-
----
-
-# 📈 MY LEARNING GRAPH
-
-```text
-2026
-
-C++             ███████████████░░░░░  75%
-Python          █████████████░░░░░░░  65%
-HTML/CSS        █████████████████░░░  85%
-JavaScript      ████████░░░░░░░░░░░░  40%
-Git/GitHub      ████████████░░░░░░░░  60%
-DSA             █████░░░░░░░░░░░░░░░  25%
-AI/ML           ███░░░░░░░░░░░░░░░░░  15%
-```
-
-> These aren't skill ratings.
-> They're just a snapshot of what I'm currently learning.
-
----
-
-# 💻 TERMINAL
-
-```bash
-$ git clone my-life
-
-Cloning into 'my-life'...
-
-$ cd my-life
-
-$ npm install ambition
-
-Installing ambition...
-████████████████████████████ 100%
-
-$ npm run build
-
-Building future...
-████████████████████████████ 100%
-
-$ npm run deploy
-
-🚀 Deployment successful.
-
-> Status: ONLINE
-> Goal: Become REALLY good at software engineering.
-```
-
----
-
-# 🎯 2026 QUEST LOG
-
-```text
-[████████████████████░░] Learn DSA
-[██████████████░░░░░░░░] Build serious projects
-[██████████░░░░░░░░░░░] Learn JavaScript
-[███████░░░░░░░░░░░░░░] Explore AI/ML
-[█████░░░░░░░░░░░░░░░░] Open Source
-[███░░░░░░░░░░░░░░░░░░] Internships
-```
-
----
-
-# 🌌 RANDOM FACT
-
-> I don't want to just **learn to code.**
+> **I don't want to just write code.**
 >
-> I want to learn how to **build things people actually use.**
+> I want to build things that make people say **"damn."**
 
 ---
 
-# 📡 CONNECT WITH ME
+# `02` — CURRENTLY
+
+<div align="center">
+
+| 🧠 Learning |    ⚙️ Building   |    🎯 Hunting   |
+| :---------: | :--------------: | :-------------: |
+|     DSA     |   Web Projects   |   Internships   |
+|     C++     |  UI Experiments  |   Open Source   |
+|    Python   |     Portfolio    | Real Experience |
+|   AI / ML   | College Projects | Bigger Problems |
+
+</div>
+
+---
+
+# `03` — TECH ARSENAL
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js&perline=5"/>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=5"/>
+
+</div>
+
+---
+
+# `04` — PROJECTS
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=github_dark&hide_border=true"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=github_dark&hide_border=true"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</div>
+
+### 🚧 CURRENT BUILD
+
+```text
+Project:        ███████████████████░  95%
+
+Design          ████████████████████ 100%
+Frontend        █████████████████░░░  85%
+Backend         ███████████░░░░░░░░░  55%
+Testing         ███████░░░░░░░░░░░░░  35%
+
+STATUS → BUILDING 🚀
+```
+
+---
+
+# `05` — GITHUB STATS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </div>
 
 ---
 
+# `06` — CONTRIBUTION MATRIX
+
 <div align="center">
 
-### ⚡ `CODE • CREATE • FAIL • LEARN • REPEAT`
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+</div>
+
+---
+
+# `07` — THE GRIND
+
+```text
+                    2026
+
+DSA             ████████░░░░░░░░░░░░  40%
+C++             ███████████████░░░░░  75%
+Python          █████████████░░░░░░░  65%
+HTML / CSS      █████████████████░░░  85%
+JavaScript      █████████░░░░░░░░░░░  45%
+Git / GitHub    █████████████░░░░░░░  65%
+AI / ML         █████░░░░░░░░░░░░░░░  25%
+UI / UX         ████████████░░░░░░░░  60%
+```
+
+> `Progress > perfection.`
+
+---
+
+# `08` — TERMINAL
+
+```bash
+┌──(bhavya㉿github)-[~/life]
+└─$ ./build_future.sh
+
+[+] Initializing...
+[+] Learning...
+[+] Building...
+[+] Failing...
+[+] Debugging...
+[+] Learning again...
+[+] Shipping...
+
+████████████████████████████████ 100%
+
+✓ Future successfully compiled.
+```
+
+---
+
+# `09` — MY PHILOSOPHY
+
+<div align="center">
+
+### `"Stay curious. Build relentlessly."`
+
+<br>
+
+`LEARN` → `BUILD` → `BREAK` → `DEBUG` → `SHIP`
+
+</div>
+
+---
+
+# `10` — CONNECT
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║        CODE. CREATE. REPEAT. 🚀             ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:111111,100:000000&height=130&section=footer"/>
 
 </div>
