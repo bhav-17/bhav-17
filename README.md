@@ -31,6 +31,8 @@
 
 # `01` — WHO AM I?
 
+# `01` — WHO AM I?
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=BHAVYA+PRAKASH;Computer+Science+Student;Developer+in+Progress;UI%2FUX+Enthusiast;Problem-Solving+Addict" />
@@ -41,8 +43,61 @@
 
 </div>
 
-<table> <tr> <td width="55%" valign="top">
----
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👋 A LITTLE ABOUT ME
+
+I'm a **Computer Science Student** currently turning curiosity into code.
+
+<br>
+
+🧑‍💻 **Developer in progress**
+🎨 **UI/UX enthusiast**
+🧠 **Problem-solving addict**
+🚀 **Building skills + projects + experience**
+
+</td>
+
+<td width="45%" valign="top">
+
+### ⚡ CURRENT STATUS
+
+```text
+╭─────────────────────╮
+│                     │
+│  ● ONLINE           │
+│                     │
+│  Learning     ████  │
+│  Building     ████  │
+│  Exploring    ███░  │
+│                     │
+│  STATUS: ACTIVE     │
+│                     │
+╰─────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+> ### **I don't want to just write code.**
+>
+> ### I want to build things that make people say **"damn."**
+
+</div>
+
+<div align="center">
+
+`LEARN`  →  `BUILD`  →  `BREAK`  →  `DEBUG`  →  `SHIP`
+
+</div>
+---------
 
 # `02` — CURRENTLY
 
