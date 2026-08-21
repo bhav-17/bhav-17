@@ -119,6 +119,9 @@ STATUS → BUILDING 🚀
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=bhav-17&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav-17&layout=compact&theme=github_dark&hide_border=true"/>
+📈 Activity Graph
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhav-17&theme=tokyo-night&hide_border=true&area=true" /> </div>
 
 <br><br>
 
