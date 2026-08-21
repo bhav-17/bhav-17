@@ -31,25 +31,17 @@
 
 # `01` — WHO AM I?
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   👨‍💻  BHAVYA PRAKASH                                        │
-│                                                              │
-│   Computer Science Student                                   │
-│   Developer in progress                                     │
-│   UI/UX enthusiast                                          │
-│   Problem-solving addict                                    │
-│                                                              │
-│   Currently building → skills + projects + experience        │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+<div align="center">
 
-> **I don't want to just write code.**
->
-> I want to build things that make people say **"damn."**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=BHAVYA+PRAKASH;Computer+Science+Student;Developer+in+Progress;UI%2FUX+Enthusiast;Problem-Solving+Addict" />
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" />
+
+</div>
+
+<table> <tr> <td width="55%" valign="top">
 ---
 
 # `02` — CURRENTLY
