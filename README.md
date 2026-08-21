@@ -1,19 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BHAVYA+PRAKASH;Computer+Science+Student;Developer+%7C+Designer+%7C+Builder" />
-
-<br>
-
-<sub>building things that make people say "damn."</sub>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00F7FF&label=VISITORS" />
-
-</div>
-
----
-
 
 <div align="center">
 
@@ -39,7 +23,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
+
 
 </div>
 
