@@ -1,14 +1,29 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=2800&pause=1100&color=00F7FF&center=true&vCenter=true&width=700&lines=BHAVYA+PRAKASH;Computer+Science+Student;Developer+%7C+Designer+%7C+Builder" alt="Typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00F7FF&height=220&section=header&text=BHAVYA%20PRAKASH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=55&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=900&color=8B949E&center=true&vCenter=true&width=500&lines=learning+%C2%B7+building+%C2%B7+experimenting;turning+ideas+into+code;progress+%3E+perfection" alt="Subtitle animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Bhavya.exe...;%3E+Loading+developer+mode...;%3E+Building+the+future...;%3E+while+(alive)+%7B+code()%3B+%7D" />
 
 <br><br>
 
-CSE STUDENT  ·  DEVELOPER  ·  BUILDER
+<a href="https://github.com/bhav-17">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+</a>
+
+<a href="mailto:prakashbhavya.1720@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+</a>
+
+<br><br>
+
+
 
 </div>
 
