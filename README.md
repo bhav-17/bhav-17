@@ -130,81 +130,17 @@ I'm a **Computer Science Student** currently turning curiosity into code.
 ---
 
 # `04` — PROJECTS
-
-# `04` — PROJECTS
-
 <div align="center">
 
-### 🚧 CURRENT BUILD
+<a href="https://github.com/bhav-17">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhav-17&repo=CG_Assignments&theme=github_dark&hide_border=true"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Designing...;Building...;Breaking...;Debugging...;Shipping..." />
+<a href="https://github.com/bhav-17">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhav-17&repo=CG_Assignments&theme=github_dark&hide_border=true"/>
+</a>
 
 </div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 PORTFOLIO
-
-Personal portfolio focused on clean interfaces, animations and modern web experiences.
-
-`HTML` `CSS` `JavaScript`
-
-**STATUS → BUILDING 🚀**
-
-</td>
-
-<td width="50%">
-
-### 🎓 COLLEGE WORK
-
-Assignments, experiments and projects created throughout my CSE journey.
-
-`C` `C++` `Python` `HTML` `CSS`
-
-**STATUS → ACTIVE 📚**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 DSA JOURNEY
-
-Learning Data Structures & Algorithms and documenting the grind along the way.
-
-`C++` `Python` `DSA`
-
-**STATUS → LEARNING ⚡**
-
-</td>
-
-<td width="50%">
-
-### 🔒 CLASSIFIED
-
-Something bigger is currently being built.
-
-```text
-████████████████░░░░  80%
-### 🚧 CURRENT BUILD
-
-```text
-Project:        ███████████████████░  95%
-
-Design          ████████████████████ 100%
-Frontend        █████████████████░░░  85%
-Backend         ███████████░░░░░░░░░  55%
-Testing         ███████░░░░░░░░░░░░░  35%
-
-STATUS → BUILDING 🚀
-```
-
----
 
 # `05` — GITHUB STATS
 
