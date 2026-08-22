@@ -28,9 +28,6 @@
 </div>
 
 ---
-
-# `01` — WHO AM I?
-
 # `01` — WHO AM I?
 
 <div align="center">
