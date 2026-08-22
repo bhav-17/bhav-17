@@ -138,7 +138,7 @@ I'm a **Computer Science Student** currently turning curiosity into code.
 </a>
 
 <a href="https://github.com/bhav-17">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhav-17&repo=CG_Assignments&theme=github_dark&hide_border=true"/>
 </a>
 
 </div>
