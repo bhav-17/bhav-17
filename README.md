@@ -121,7 +121,7 @@ I'm a **Computer Science Student** currently turning curiosity into code.
 
 ### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js&perline=5"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&perline=6"/>
 
 ### TOOLS
 
@@ -169,6 +169,10 @@ STATUS → BUILDING 🚀
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav-17&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
+📈 Activity Graph
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhav-17&theme=tokyo-night&hide_border=true&area=true" /> </div>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhav-17&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
