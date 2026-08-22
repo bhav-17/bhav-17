@@ -119,7 +119,7 @@ I'm a **Computer Science Student** currently turning curiosity into code.
 
 ### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&perline=6"/>
+<img src="https://skillicons.dev/icons?i=node.js,c,cpp,python,html,css,js&perline=6"/>
 
 ### TOOLS
 
