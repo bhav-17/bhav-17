@@ -242,26 +242,6 @@ UI / UX         ████████████░░░░░░░░  60
 
 ---
 
-# `10` — CONNECT
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
-</a>
-
-</div>
-
-<br>
-
 ---
 
 # `10` — CONNECT
