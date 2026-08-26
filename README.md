@@ -148,21 +148,18 @@ STATUS → BUILDING 🚀
 
 ---
 
-# `05` — GITHUB STATS
+# `05` — GITHUB ACTIVITY
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=bhav-17&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&include_all_commits=true&count_private=true" />
+
 <br><br>
-📈 Activity Graph
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhav-17&theme=tokyo-night&hide_border=true&area=true" /> </div>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhav-17&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhav-17&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
-
----
+-------
 
 # `06` — CONTRIBUTION MATRIX
 
