@@ -1,38 +1,29 @@
-name: Generate Activity Graph
+name: Update Activity Graph
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  activity-graph:
+  build:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v6
+    permissions:
+      contents: write
 
-      - name: Generate Activity Graph
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: bhav-17
-          options: >-
-            bg_color=0D1117
-            &color=FFFFFF
-            &line=00F7FF
-            &point=00F7FF
-            &area_color=00F7FF
-            &area=true
-            &hide_border=true
-            &custom_title=GITHUB%20ACTIVITY
+          options: bg_color=0D1117&color=FFFFFF&line=00F7FF&point=00F7FF&area_color=00F7FF&area=true&hide_border=true&custom_title=GITHUB%20ACTIVITY
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish Graph
+      - name: Publish activity graph
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
