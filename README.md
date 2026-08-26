@@ -148,15 +148,15 @@ STATUS → BUILDING 🚀
 
 ---
 
-# `05` — GITHUB ACTIVITY
+# `05` — GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhav-17&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&include_all_commits=true&count_private=true" />
+<br>
+
+<img src="https://raw.githubusercontent.com/bhav-17/bhav-17/output/activity-graph.svg" />
 
 <br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhav-17&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 -------
