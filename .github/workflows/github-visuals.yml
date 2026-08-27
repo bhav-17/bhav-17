@@ -1,0 +1,59 @@
+name: Update GitHub Visuals
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      # ─────────────────────────────────────
+      # ACTIVITY GRAPH
+      # ─────────────────────────────────────
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: bhav-17
+          options: bg_color=0D1117&color=FFFFFF&line=00F7FF&point=00F7FF&area_color=00F7FF&area=true&hide_border=true&custom_title=GITHUB%20ACTIVITY
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─────────────────────────────────────
+      # SNAKE ANIMATION
+      # ─────────────────────────────────────
+
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: bhav-17
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # ─────────────────────────────────────
+      # PUBLISH EVERYTHING TO OUTPUT
+      # ─────────────────────────────────────
+
+      - name: Deploy GitHub Visuals
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update GitHub visuals"
