@@ -1,11 +1,10 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00F7FF&height=220&section=header&text=BHAVYA%20PRAKASH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=55&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Bhavya.exe...;%3E+Loading+developer+mode...;%3E+Building+the+future...;%3E+while+(alive)+%7B+code()%3B+%7D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Bhavya.exe...;%3E+Loading+developer+mode...;%3E+Building+the+future...;%3E+while+(alive)+%7B+code()%3B+%7D"/>
 
 <br><br>
 
@@ -13,7 +12,9 @@
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<!-- REPLACE YOUR_LINKEDIN_USERNAME WITH YOUR ACTUAL LINKEDIN USERNAME -->
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
@@ -23,7 +24,7 @@
 
 <br><br>
 
-
+<img src="https://komarev.com/ghpvc/?username=bhav-17&label=PROFILE+VIEWS&color=00F7FF&style=flat"/>
 
 </div>
 
@@ -31,52 +32,45 @@
 
 # `01` — WHO AM I?
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=BHAVYA+PRAKASH;Computer+Science+Student;Developer+in+Progress;UI%2FUX+Enthusiast;Problem-Solving+Addict" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" />
-
-</div>
-
 <table>
 <tr>
+
 <td width="55%" valign="top">
 
 ### 👋 A LITTLE ABOUT ME
 
-I'm a **Computer Science Student** currently turning curiosity into code.
+I'm a **Computer Science Student** turning curiosity into code and ideas into projects.
 
 <br>
 
 🧑‍💻 **Developer in progress**
 🎨 **UI/UX enthusiast**
-🧠 **Problem-solving addict**
-🚀 **Building skills + projects + experience**
+💡 **Curious problem solver**
+🚀 **Building skills, projects & experience**
+
+<br>
+
+### 💭 MY APPROACH
+
+```text
+LEARN → BUILD → BREAK → DEBUG → SHIP
+```
 
 </td>
 
 <td width="45%" valign="top">
 
-### ⚡ CURRENT STATUS
+### 🎯 CURRENT FOCUS
 
-```text
-╭─────────────────────╮
-│                     │
-│  ● ONLINE           │
-│                     │
-│  Learning     ████  │
-│  Building     ████  │
-│  Exploring    ███░  │
-│                     │
-│  STATUS: ACTIVE     │
-│                     │
-╰─────────────────────╯
-```
+|                        |                                  |
+| ---------------------- | -------------------------------- |
+| 💻 **Building**        | Web Development Projects         |
+| 🎨 **Exploring**       | UI/UX & Frontend Design          |
+| 🐍 **Working With**    | C++ & Python                     |
+| 🚀 **Growing Through** | Projects & Real-World Experience |
 
 </td>
+
 </tr>
 </table>
 
@@ -86,13 +80,7 @@ I'm a **Computer Science Student** currently turning curiosity into code.
 
 > ### **I don't want to just write code.**
 >
-> ### I want to build things that make people say **"damn."**
-
-</div>
-
-<div align="center">
-
-`LEARN`  →  `BUILD`  →  `BREAK`  →  `DEBUG`  →  `SHIP`
+> ### I want to build things that make people say something matters.
 
 </div>
 
@@ -102,12 +90,11 @@ I'm a **Computer Science Student** currently turning curiosity into code.
 
 <div align="center">
 
-| 🧠 Learning |    ⚙️ Building   |    🎯 Hunting   |
-| :---------: | :--------------: | :-------------: |
-|     DSA     |   Web Projects   |   Internships   |
-|     C++     |  UI Experiments  |   Open Source   |
-|    Python   |     Portfolio    | Real Experience |
-|   AI / ML   | College Projects | Bigger Problems |
+|    💻 Building   |    🎨 Exploring   |       🚀 Growing      |
+| :--------------: | :---------------: | :-------------------: |
+|   Web Projects   |   UI Experiments  | Real-World Experience |
+|     Portfolio    |  Modern Frontend  |      Open Source      |
+| College Projects | Better Interfaces |    New Technologies   |
 
 </div>
 
@@ -121,7 +108,9 @@ I'm a **Computer Science Student** currently turning curiosity into code.
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&perline=6"/>
 
-### TOOLS
+<br><br>
+
+### TOOLS & TECHNOLOGIES
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=5"/>
 
@@ -129,41 +118,86 @@ I'm a **Computer Science Student** currently turning curiosity into code.
 
 ---
 
-# `04` — PROJECTS
+# `04` — FEATURED WORK
 
+<div align="center">
 
+> ### Projects I'm building and experimenting with.
 
-### 🚧 CURRENT BUILD
+</div>
+
+<!--
+WHEN YOU HAVE PROJECTS, REPLACE THIS SECTION WITH YOUR ACTUAL PROJECT DETAILS.
+
+Example:
+
+### 🚀 Project Name
+
+Short description of what the project does.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 Repository: https://github.com/bhav-17/REPOSITORY_NAME
+🌐 Live Demo: YOUR_LIVE_DEMO_LINK
+-->
 
 ```text
-Project:        ███████████████████░  95%
+🚧 FEATURED PROJECTS — COMING SOON
 
-Design          ████████████████████ 100%
-Frontend        █████████████████░░░  85%
-Backend         ███████████░░░░░░░░░  55%
-Testing         ███████░░░░░░░░░░░░░  35%
+Currently building and refining projects.
 
-STATUS → BUILDING 🚀
+The best work will appear here.
 ```
 
 ---
 
-# `05` — GITHUB STATS
+# `05` — DEVELOPER SNAPSHOT
 
 <div align="center">
 
-<br>
-
-<img src="https://raw.githubusercontent.com/bhav-17/bhav-17/output/activity-graph.svg" />
-
-<br><br>
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│  🎓  Computer Science Student                │
+│                                              │
+│  💻  Building web-based projects             │
+│                                              │
+│  🎨  Interested in UI / UX & frontend        │
+│                                              │
+│  🐍  Working with C++ & Python                │
+│                                              │
+│  🚀  Learning by building                    │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
 
 </div>
 
+---
 
-# `06` — CONTRIBUTION MATRIX
+# `06` — GITHUB ACTIVITY
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhav-17&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav-17&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+
+<br><br>
+
+<!-- KEEP THIS URL EXACTLY AS IT IS — GENERATED BY YOUR EXISTING WORKFLOW -->
+
+<img src="https://raw.githubusercontent.com/bhav-17/bhav-17/output/activity-graph.svg"/>
+
+</div>
+
+---
+
+# `07` — CONTRIBUTION MATRIX
+
+<div align="center">
+
+<!-- KEEP THIS URL EXACTLY AS IT IS — GENERATED BY YOUR EXISTING WORKFLOW -->
 
 <img src="https://raw.githubusercontent.com/bhav-17/bhav-17/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -171,26 +205,35 @@ STATUS → BUILDING 🚀
 
 ---
 
-# `07` — THE GRIND
+# `08` — THE PROCESS
+
+<div align="center">
 
 ```text
-                    2026
-
-DSA             ████████░░░░░░░░░░░░  40%
-C++             ███████████████░░░░░  75%
-Python          █████████████░░░░░░░  65%
-HTML / CSS      █████████████████░░░  85%
-JavaScript      █████████░░░░░░░░░░░  45%
-Git / GitHub    █████████████░░░░░░░  65%
-AI / ML         █████░░░░░░░░░░░░░░░  25%
-UI / UX         ████████████░░░░░░░░  60%
+IDEA
+ ↓
+RESEARCH
+ ↓
+DESIGN
+ ↓
+BUILD
+ ↓
+TEST
+ ↓
+DEBUG
+ ↓
+SHIP
 ```
+
+<br>
 
 > `Progress > perfection.`
 
+</div>
+
 ---
 
-# `08` — TERMINAL
+# `09` — TERMINAL
 
 ```bash
 ┌──(bhavya㉿github)-[~/life]
@@ -199,9 +242,9 @@ UI / UX         ████████████░░░░░░░░  60
 [+] Initializing...
 [+] Learning...
 [+] Building...
-[+] Failing...
+[+] Experimenting...
 [+] Debugging...
-[+] Learning again...
+[+] Improving...
 [+] Shipping...
 
 ████████████████████████████████ 100%
@@ -211,7 +254,7 @@ UI / UX         ████████████░░░░░░░░  60
 
 ---
 
-# `09` — MY PHILOSOPHY
+# `10` — MY PHILOSOPHY
 
 <div align="center">
 
@@ -225,52 +268,36 @@ UI / UX         ████████████░░░░░░░░  60
 
 ---
 
----
+# `11` — CONNECT
 
-# `10` — CONNECT
-
-
-<br>
-
-<table>
-<tr>
-<td align="center">
+<div align="center">
 
 <a href="https://github.com/bhav-17">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
-</td>
+<!-- REPLACE YOUR_LINKEDIN_USERNAME WITH YOUR ACTUAL LINKEDIN USERNAME -->
 
-<td width="20"></td>
-
-<td align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
-
-</td>
-
-<td width="20"></td>
-
-<td align="center">
 
 <a href="mailto:prakashbhavya.1720@gmail.com">
 <img src="https://img.shields.io/badge/MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
 </a>
 
-</td>
-</tr>
-</table>
-
-<br>
+<br><br>
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
 │                                                            │
-│              CODE. CREATE. REPEAT. 🚀                      |
+│                    CODE. CREATE. REPEAT.                   │
 │                                                            │
-│        ────────  ALWAYS BUILD. NEVER STOP.  ────────       │
+│           ───── ALWAYS BUILD. NEVER STOP. ─────            │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:111111,100:000000&height=120&section=footer"/>
