@@ -120,17 +120,15 @@ The best work will appear here.
 
 ---
 
-# `04` — CONTRIBUTION GALAXY
+# `04` — GITHUB ACTIVITY
 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/bhav-17/bhav-17/main/assets/contribution-galaxy.svg"
-  alt="Bhavya Prakash Contribution Galaxy"
+  src="https://raw.githubusercontent.com/bhav-17/bhav-17/comet-graph/comet.svg?cache=2"
+  alt="Cinematic Comet Contribution Graph"
   width="100%"
 />
-
-</div>
 
 </div>
 
