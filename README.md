@@ -86,20 +86,6 @@ LEARN → BUILD → BREAK → DEBUG → SHIP
 
 ---
 
-# `02` — CURRENTLY
-
-<div align="center">
-
-|    💻 Building   |    🎨 Exploring   |       🚀 Growing      |
-| :--------------: | :---------------: | :-------------------: |
-|   Web Projects   |   UI Experiments  | Real-World Experience |
-|     Portfolio    |  Modern Frontend  |      Open Source      |
-| College Projects | Better Interfaces |    New Technologies   |
-
-</div>
-
----
-
 # `03` — TECH ARSENAL
 
 <div align="center">
