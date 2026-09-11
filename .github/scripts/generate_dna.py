@@ -6,10 +6,10 @@ from datetime import datetime
 
 
 USERNAME = os.getenv("GITHUB_USERNAME", "bhav-17")
-TOKEN = os.getenv("GH_TOKEN")
+TOKEN = os.getenv("GITHUB_TOKEN")
 
-OUTPUT_DIR = "output"
-OUTPUT_FILE = f"{OUTPUT_DIR}/dna-contribution.svg"
+OUTPUT_DIR = "assets"
+OUTPUT_FILE = f"{OUTPUT_DIR}/contribution-dna.svg"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -46,10 +46,13 @@ data = json.dumps(payload).encode("utf-8")
 request = urllib.request.Request(
     "https://api.github.com/graphql",
     data=data,
-    headers={
-        "Authorization": f"Bearer {TOKEN}",
-        "Content-Type": "application/json",
-        "User-Agent": "DNA-Contribution-Graph"
+    headers = {
+    "Content-Type": "application/json",
+    "User-Agent": "DNA-Contribution-Graph"
+}
+
+if TOKEN:
+    headers["Authorization"] = f"Bearer {TOKEN}"
     }
 )
 
