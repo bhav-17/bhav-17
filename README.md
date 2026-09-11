@@ -179,8 +179,13 @@ The best work will appear here.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhav-17&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/dev-aditya-wiz/dev-aditya-wiz/comet-graph/comet.svg"
+    alt="Cinematic Comet Contribution Graph"
+    width="100%"
+  />
+</p>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav-17&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
 
 <br><br>
