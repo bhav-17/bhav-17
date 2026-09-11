@@ -139,27 +139,35 @@ The best work will appear here.
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhav-17&theme=radical"
-  alt="GitHub Profile Details"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=bhav-17&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=bhav-17&background=0D1117&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=AAAAAA&stroke=00F7FF"
 />
 
 <br><br>
 
 <img
-  height="165"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhav-17&theme=radical"
-  alt="GitHub Stats"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav-17&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"
 />
 
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav-17&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"
-  alt="Top Languages"
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhav-17&theme=github_dark"
+/>
+
+<br><br>
+
+<img
+  width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhav-17&theme=github_dark"
 />
 
 </div>
-
----
 
 # `06` — CONTRIBUTION MATRIX
 
