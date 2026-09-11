@@ -178,13 +178,10 @@ The best work will appear here.
 # `06` — GITHUB ACTIVITY
 
 <div align="center">
-
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/bhav-17/bhav-17/comet-graph/comet.svg"
+  <img src="https://raw.githubusercontent.com/bhav-17/bhav-17/comet-graph/comet.svg?cache=1"
     alt="Cinematic Comet Contribution Graph"
-    width="100%"
-  />
+    width="100%">
 </p>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav-17&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
 
