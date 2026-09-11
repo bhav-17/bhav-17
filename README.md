@@ -166,11 +166,10 @@ The best work will appear here.
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/bhav-17/bhav-17/output/dna-contribution.svg"
-  alt="GitHub Contribution DNA"
+  src="https://raw.githubusercontent.com/bhav-17/bhav-17/main/assets/contribution-dna.svg"
+  alt="Bhavya Prakash Contribution DNA"
   width="100%"
 />
-
 </div>
 ---
 
