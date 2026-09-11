@@ -181,7 +181,7 @@ The best work will appear here.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/dev-aditya-wiz/dev-aditya-wiz/comet-graph/comet.svg"
+    src="https://raw.githubusercontent.com/bhav-17/bhav-17/comet-graph/comet.svg"
     alt="Cinematic Comet Contribution Graph"
     width="100%"
   />
