@@ -161,17 +161,17 @@ The best work will appear here.
 
 ---
 
-# `06` — CONTRIBUTION MATRIX
+# `06` — CONTRIBUTION DNA
 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/bhav-17/bhav-17/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/bhav-17/bhav-17/output/dna-contribution.svg"
+  alt="GitHub Contribution DNA"
+  width="100%"
 />
 
 </div>
-
 ---
 
 # `07` — THE PROCESS
