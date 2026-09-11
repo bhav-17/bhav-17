@@ -1,41 +1,32 @@
-name: Generate Contribution DNA
+name: Generate DNA Contribution Visual
 
 on:
   schedule:
-    - cron: "0 0 * * 0"
-
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate-dna:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
-
-      - name: Generate Contribution DNA
+      - name: Generate DNA contribution SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: bhav-17
         run: |
-          python .github/scripts/generate_dna.py
+          python3 .github/scripts/generate_dna.py
 
-      - name: Commit generated DNA
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add assets/contribution-dna.svg
-
-          git diff --staged --quiet || git commit -m "chore: update contribution DNA"
-
-          git push
+      - name: Push generated SVG
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: output
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
