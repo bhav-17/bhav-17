@@ -183,6 +183,18 @@ The best work will appear here.
     alt="Cinematic Comet Contribution Graph"
     width="100%">
 </p>
+
+# `07` - GITHUB STATS
+
+<div align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhav-17&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhav-17&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhav-17&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhav-17&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhav-17&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhav-17&theme=radical">
+</div>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav-17&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
 
 <br><br>
