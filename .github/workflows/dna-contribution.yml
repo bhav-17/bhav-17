@@ -1,0 +1,32 @@
+name: Generate DNA Contribution Visual
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate DNA contribution SVG
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: bhav-17
+        run: |
+          python3 .github/scripts/generate_dna.py
+
+      - name: Push generated SVG
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: output
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
