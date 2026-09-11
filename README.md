@@ -137,30 +137,6 @@ The best work will appear here.
 
 ---
 
-# `05` — DEVELOPER SNAPSHOT
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  🎓  Computer Science Student                │
-│                                              │
-│  💻  Building web-based projects             │
-│                                              │
-│  🎨  Interested in UI / UX & frontend        │
-│                                              │
-│  🐍  Working with C++ & Python                │
-│                                              │
-│  🚀  Learning by building                    │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
 # `06` — GITHUB ACTIVITY
 
 <div align="center">
