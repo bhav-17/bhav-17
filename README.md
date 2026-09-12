@@ -151,12 +151,6 @@ The best work will appear here.
   alt="GitHub Stats"
 />
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav-17&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"
-  alt="Top Languages"
-/>
-
 </div>
 
 ---
