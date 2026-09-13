@@ -1,0 +1,2108 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="1100"
+height="420"
+viewBox="0 0 1100 420"
+>
+
+<defs>
+
+    <filter id="glow">
+
+        <feGaussianBlur
+            stdDeviation="4"
+            result="blur"
+        />
+
+        <feMerge>
+            <feMergeNode in="blur"/>
+            <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+
+    </filter>
+
+    <linearGradient
+        id="backgroundGradient"
+        x1="0"
+        y1="0"
+        x2="1"
+        y2="1"
+    >
+
+        <stop
+            offset="0%"
+            stop-color="#0D1117"
+        />
+
+        <stop
+            offset="100%"
+            stop-color="#05080C"
+        />
+
+    </linearGradient>
+
+</defs>
+
+
+<!-- BACKGROUND -->
+
+<rect
+    width="100%"
+    height="100%"
+    rx="18"
+    fill="url(#backgroundGradient)"
+/>
+
+
+<!-- TITLE -->
+
+<text
+    x="50%"
+    y="55"
+    text-anchor="middle"
+    fill="#00F7FF"
+    font-family="JetBrains Mono, monospace"
+    font-size="22"
+    letter-spacing="5"
+>
+    CONTRIBUTION DNA
+</text>
+
+
+<text
+    x="50%"
+    y="82"
+    text-anchor="middle"
+    fill="#8B949E"
+    font-family="JetBrains Mono, monospace"
+    font-size="12"
+    letter-spacing="2"
+>
+    BHAV-17 • GITHUB ACTIVITY SEQUENCE
+</text>
+
+
+<!-- DNA STRANDS -->
+
+<polyline
+    points="80.00,210.00 83.78,217.94 87.55,225.84 91.33,233.64 95.10,241.31 98.88,248.80 102.65,256.07 106.43,263.07 110.20,269.77 113.98,276.13 117.75,282.11 121.53,287.67 125.30,292.80 129.08,297.44 132.85,301.59 136.63,305.21 140.40,308.28 144.18,310.80 147.95,312.73 151.73,314.08 155.50,314.83 159.28,314.98 163.05,314.53 166.83,313.48 170.60,311.84 174.38,309.61 178.15,306.82 181.93,303.47 185.70,299.58 189.48,295.18 193.25,290.29 197.03,284.95 200.80,279.17 204.58,273.00 208.35,266.46 212.13,259.61 215.90,252.47 219.68,245.08 223.45,237.50 227.23,229.75 231.00,221.90 234.78,213.97 238.55,206.03 242.33,198.10 246.10,190.25 249.88,182.50 253.65,174.92 257.43,167.53 261.20,160.39 264.98,153.54 268.76,147.00 272.53,140.83 276.31,135.05 280.08,129.71 283.86,124.82 287.63,120.42 291.41,116.53 295.18,113.18 298.96,110.39 302.73,108.16 306.51,106.52 310.28,105.47 314.06,105.02 317.83,105.17 321.61,105.92 325.38,107.27 329.16,109.20 332.93,111.72 336.71,114.79 340.48,118.41 344.26,122.56 348.03,127.20 351.81,132.33 355.58,137.89 359.36,143.87 363.13,150.23 366.91,156.93 370.68,163.93 374.46,171.20 378.23,178.69 382.01,186.36 385.78,194.16 389.56,202.06 393.33,210.00 397.11,217.94 400.88,225.84 404.66,233.64 408.43,241.31 412.21,248.80 415.98,256.07 419.76,263.07 423.53,269.77 427.31,276.13 431.08,282.11 434.86,287.67 438.63,292.80 442.41,297.44 446.18,301.59 449.96,305.21 453.73,308.28 457.51,310.80 461.29,312.73 465.06,314.08 468.84,314.83 472.61,314.98 476.39,314.53 480.16,313.48 483.94,311.84 487.71,309.61 491.49,306.82 495.26,303.47 499.04,299.58 502.81,295.18 506.59,290.29 510.36,284.95 514.14,279.17 517.91,273.00 521.69,266.46 525.46,259.61 529.24,252.47 533.01,245.08 536.79,237.50 540.56,229.75 544.34,221.90 548.11,213.97 551.89,206.03 555.66,198.10 559.44,190.25 563.21,182.50 566.99,174.92 570.76,167.53 574.54,160.39 578.31,153.54 582.09,147.00 585.86,140.83 589.64,135.05 593.41,129.71 597.19,124.82 600.96,120.42 604.74,116.53 608.51,113.18 612.29,110.39 616.06,108.16 619.84,106.52 623.61,105.47 627.39,105.02 631.16,105.17 634.94,105.92 638.71,107.27 642.49,109.20 646.27,111.72 650.04,114.79 653.82,118.41 657.59,122.56 661.37,127.20 665.14,132.33 668.92,137.89 672.69,143.87 676.47,150.23 680.24,156.93 684.02,163.93 687.79,171.20 691.57,178.69 695.34,186.36 699.12,194.16 702.89,202.06 706.67,210.00 710.44,217.94 714.22,225.84 717.99,233.64 721.77,241.31 725.54,248.80 729.32,256.07 733.09,263.07 736.87,269.77 740.64,276.13 744.42,282.11 748.19,287.67 751.97,292.80 755.74,297.44 759.52,301.59 763.29,305.21 767.07,308.28 770.84,310.80 774.62,312.73 778.39,314.08 782.17,314.83 785.94,314.98 789.72,314.53 793.49,313.48 797.27,311.84 801.04,309.61 804.82,306.82 808.59,303.47 812.37,299.58 816.14,295.18 819.92,290.29 823.69,284.95 827.47,279.17 831.24,273.00 835.02,266.46 838.80,259.61 842.57,252.47 846.35,245.08 850.12,237.50 853.90,229.75 857.67,221.90 861.45,213.97 865.22,206.03 869.00,198.10 872.77,190.25 876.55,182.50 880.32,174.92 884.10,167.53 887.87,160.39 891.65,153.54 895.42,147.00 899.20,140.83 902.97,135.05 906.75,129.71 910.52,124.82 914.30,120.42 918.07,116.53 921.85,113.18 925.62,110.39 929.40,108.16 933.17,106.52 936.95,105.47 940.72,105.02 944.50,105.17 948.27,105.92 952.05,107.27 955.82,109.20 959.60,111.72 963.37,114.79 967.15,118.41 970.92,122.56 974.70,127.20 978.47,132.33 982.25,137.89 986.02,143.87 989.80,150.23 993.57,156.93 997.35,163.93 1001.12,171.20 1004.90,178.69 1008.67,186.36 1012.45,194.16 1016.22,202.06 1020.00,210.00"
+    fill="none"
+    stroke="#00F7FF"
+    stroke-width="2.5"
+    opacity="0.55"
+    filter="url(#glow)"
+>
+    <animate
+        attributeName="opacity"
+        values="0.35;0.8;0.35"
+        dur="4s"
+        repeatCount="indefinite"
+    />
+</polyline>
+
+
+<polyline
+    points="80.00,210.00 83.78,202.06 87.55,194.16 91.33,186.36 95.10,178.69 98.88,171.20 102.65,163.93 106.43,156.93 110.20,150.23 113.98,143.87 117.75,137.89 121.53,132.33 125.30,127.20 129.08,122.56 132.85,118.41 136.63,114.79 140.40,111.72 144.18,109.20 147.95,107.27 151.73,105.92 155.50,105.17 159.28,105.02 163.05,105.47 166.83,106.52 170.60,108.16 174.38,110.39 178.15,113.18 181.93,116.53 185.70,120.42 189.48,124.82 193.25,129.71 197.03,135.05 200.80,140.83 204.58,147.00 208.35,153.54 212.13,160.39 215.90,167.53 219.68,174.92 223.45,182.50 227.23,190.25 231.00,198.10 234.78,206.03 238.55,213.97 242.33,221.90 246.10,229.75 249.88,237.50 253.65,245.08 257.43,252.47 261.20,259.61 264.98,266.46 268.76,273.00 272.53,279.17 276.31,284.95 280.08,290.29 283.86,295.18 287.63,299.58 291.41,303.47 295.18,306.82 298.96,309.61 302.73,311.84 306.51,313.48 310.28,314.53 314.06,314.98 317.83,314.83 321.61,314.08 325.38,312.73 329.16,310.80 332.93,308.28 336.71,305.21 340.48,301.59 344.26,297.44 348.03,292.80 351.81,287.67 355.58,282.11 359.36,276.13 363.13,269.77 366.91,263.07 370.68,256.07 374.46,248.80 378.23,241.31 382.01,233.64 385.78,225.84 389.56,217.94 393.33,210.00 397.11,202.06 400.88,194.16 404.66,186.36 408.43,178.69 412.21,171.20 415.98,163.93 419.76,156.93 423.53,150.23 427.31,143.87 431.08,137.89 434.86,132.33 438.63,127.20 442.41,122.56 446.18,118.41 449.96,114.79 453.73,111.72 457.51,109.20 461.29,107.27 465.06,105.92 468.84,105.17 472.61,105.02 476.39,105.47 480.16,106.52 483.94,108.16 487.71,110.39 491.49,113.18 495.26,116.53 499.04,120.42 502.81,124.82 506.59,129.71 510.36,135.05 514.14,140.83 517.91,147.00 521.69,153.54 525.46,160.39 529.24,167.53 533.01,174.92 536.79,182.50 540.56,190.25 544.34,198.10 548.11,206.03 551.89,213.97 555.66,221.90 559.44,229.75 563.21,237.50 566.99,245.08 570.76,252.47 574.54,259.61 578.31,266.46 582.09,273.00 585.86,279.17 589.64,284.95 593.41,290.29 597.19,295.18 600.96,299.58 604.74,303.47 608.51,306.82 612.29,309.61 616.06,311.84 619.84,313.48 623.61,314.53 627.39,314.98 631.16,314.83 634.94,314.08 638.71,312.73 642.49,310.80 646.27,308.28 650.04,305.21 653.82,301.59 657.59,297.44 661.37,292.80 665.14,287.67 668.92,282.11 672.69,276.13 676.47,269.77 680.24,263.07 684.02,256.07 687.79,248.80 691.57,241.31 695.34,233.64 699.12,225.84 702.89,217.94 706.67,210.00 710.44,202.06 714.22,194.16 717.99,186.36 721.77,178.69 725.54,171.20 729.32,163.93 733.09,156.93 736.87,150.23 740.64,143.87 744.42,137.89 748.19,132.33 751.97,127.20 755.74,122.56 759.52,118.41 763.29,114.79 767.07,111.72 770.84,109.20 774.62,107.27 778.39,105.92 782.17,105.17 785.94,105.02 789.72,105.47 793.49,106.52 797.27,108.16 801.04,110.39 804.82,113.18 808.59,116.53 812.37,120.42 816.14,124.82 819.92,129.71 823.69,135.05 827.47,140.83 831.24,147.00 835.02,153.54 838.80,160.39 842.57,167.53 846.35,174.92 850.12,182.50 853.90,190.25 857.67,198.10 861.45,206.03 865.22,213.97 869.00,221.90 872.77,229.75 876.55,237.50 880.32,245.08 884.10,252.47 887.87,259.61 891.65,266.46 895.42,273.00 899.20,279.17 902.97,284.95 906.75,290.29 910.52,295.18 914.30,299.58 918.07,303.47 921.85,306.82 925.62,309.61 929.40,311.84 933.17,313.48 936.95,314.53 940.72,314.98 944.50,314.83 948.27,314.08 952.05,312.73 955.82,310.80 959.60,308.28 963.37,305.21 967.15,301.59 970.92,297.44 974.70,292.80 978.47,287.67 982.25,282.11 986.02,276.13 989.80,269.77 993.57,263.07 997.35,256.07 1001.12,248.80 1004.90,241.31 1008.67,233.64 1012.45,225.84 1016.22,217.94 1020.00,210.00"
+    fill="none"
+    stroke="#00F7FF"
+    stroke-width="2.5"
+    opacity="0.55"
+    filter="url(#glow)"
+>
+    <animate
+        attributeName="opacity"
+        values="0.8;0.35;0.8"
+        dur="4s"
+        repeatCount="indefinite"
+    />
+</polyline>
+
+
+<!-- DNA CONNECTIONS -->
+
+
+        <line
+            x1="80.00"
+            y1="210.00"
+            x2="80.00"
+            y2="210.00"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="110.32"
+            y1="269.98"
+            x2="110.32"
+            y2="150.02"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="140.65"
+            y1="308.46"
+            x2="140.65"
+            y2="111.54"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="170.97"
+            y1="311.65"
+            x2="170.97"
+            y2="108.35"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="201.29"
+            y1="278.39"
+            x2="201.29"
+            y2="141.61"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="231.61"
+            y1="220.62"
+            x2="231.61"
+            y2="199.38"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="261.94"
+            y1="159.04"
+            x2="261.94"
+            y2="260.96"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="292.26"
+            y1="115.73"
+            x2="292.26"
+            y2="304.27"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="322.58"
+            y1="106.21"
+            x2="322.58"
+            y2="313.79"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="352.90"
+            y1="133.90"
+            x2="352.90"
+            y2="286.10"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="383.23"
+            y1="188.86"
+            x2="383.23"
+            y2="231.14"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="413.55"
+            y1="251.41"
+            x2="413.55"
+            y2="168.59"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="443.87"
+            y1="299.11"
+            x2="443.87"
+            y2="120.89"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="474.19"
+            y1="314.87"
+            x2="474.19"
+            y2="105.13"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="504.52"
+            y1="293.03"
+            x2="504.52"
+            y2="126.97"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="534.84"
+            y1="241.43"
+            x2="534.84"
+            y2="178.57"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="565.16"
+            y1="178.57"
+            x2="565.16"
+            y2="241.43"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="595.48"
+            y1="126.97"
+            x2="595.48"
+            y2="293.03"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="625.81"
+            y1="105.13"
+            x2="625.81"
+            y2="314.87"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="656.13"
+            y1="120.89"
+            x2="656.13"
+            y2="299.11"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="686.45"
+            y1="168.59"
+            x2="686.45"
+            y2="251.41"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="716.77"
+            y1="231.14"
+            x2="716.77"
+            y2="188.86"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="747.10"
+            y1="286.10"
+            x2="747.10"
+            y2="133.90"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="777.42"
+            y1="313.79"
+            x2="777.42"
+            y2="106.21"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="807.74"
+            y1="304.27"
+            x2="807.74"
+            y2="115.73"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="838.06"
+            y1="260.96"
+            x2="838.06"
+            y2="159.04"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="868.39"
+            y1="199.38"
+            x2="868.39"
+            y2="220.62"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="898.71"
+            y1="141.61"
+            x2="898.71"
+            y2="278.39"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="929.03"
+            y1="108.35"
+            x2="929.03"
+            y2="311.65"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.15"
+        />
+    
+        <line
+            x1="959.35"
+            y1="111.54"
+            x2="959.35"
+            y2="308.46"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.16"
+        />
+    
+        <line
+            x1="989.68"
+            y1="150.02"
+            x2="989.68"
+            y2="269.98"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.24"
+        />
+    
+        <line
+            x1="1020.00"
+            y1="210.00"
+            x2="1020.00"
+            y2="210.00"
+            stroke="#00F7FF"
+            stroke-width="1.5"
+            opacity="0.50"
+        />
+    
+
+
+<!-- CONTRIBUTION NODES -->
+
+
+        <circle
+            cx="80.00"
+            cy="210.00"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.00s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.00s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="80.00"
+            cy="210.00"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.35s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.35s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="110.32"
+            cy="269.98"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.08s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.08s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="110.32"
+            cy="150.02"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.43s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.43s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="140.65"
+            cy="308.46"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.16s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.16s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="140.65"
+            cy="111.54"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.51s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.51s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="170.97"
+            cy="311.65"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.24s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.24s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="170.97"
+            cy="108.35"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.59s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.59s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="201.29"
+            cy="278.39"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.32s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.32s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="201.29"
+            cy="141.61"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.67s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.67s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="231.61"
+            cy="220.62"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.40s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.40s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="231.61"
+            cy="199.38"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.75s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.75s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="261.94"
+            cy="159.04"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.48s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.48s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="261.94"
+            cy="260.96"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.83s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.83s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="292.26"
+            cy="115.73"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.56s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.56s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="292.26"
+            cy="304.27"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.91s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.91s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="322.58"
+            cy="106.21"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.64s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.64s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="322.58"
+            cy="313.79"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.99s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.99s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="352.90"
+            cy="133.90"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.72s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.72s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="352.90"
+            cy="286.10"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.07s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.07s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="383.23"
+            cy="188.86"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.80s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.80s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="383.23"
+            cy="231.14"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.15s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.15s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="413.55"
+            cy="251.41"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.88s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.88s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="413.55"
+            cy="168.59"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.23s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.23s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="443.87"
+            cy="299.11"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="0.96s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="0.96s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="443.87"
+            cy="120.89"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.31s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.31s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="474.19"
+            cy="314.87"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.04s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.04s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="474.19"
+            cy="105.13"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.39s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.39s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="504.52"
+            cy="293.03"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.12s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.12s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="504.52"
+            cy="126.97"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.47s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.47s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="534.84"
+            cy="241.43"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.20s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.20s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="534.84"
+            cy="178.57"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.55s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.55s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="565.16"
+            cy="178.57"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.28s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.28s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="565.16"
+            cy="241.43"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.63s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.63s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="595.48"
+            cy="126.97"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.36s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.36s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="595.48"
+            cy="293.03"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.71s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.71s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="625.81"
+            cy="105.13"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.44s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.44s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="625.81"
+            cy="314.87"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.79s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.79s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="656.13"
+            cy="120.89"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.52s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.52s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="656.13"
+            cy="299.11"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.87s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.87s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="686.45"
+            cy="168.59"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.60s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.60s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="686.45"
+            cy="251.41"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.95s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.95s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="716.77"
+            cy="231.14"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.68s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.68s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="716.77"
+            cy="188.86"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="2.03s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="2.03s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="747.10"
+            cy="286.10"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.76s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.76s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="747.10"
+            cy="133.90"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="2.11s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="2.11s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="777.42"
+            cy="313.79"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.84s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.84s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="777.42"
+            cy="106.21"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="2.19s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="2.19s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="807.74"
+            cy="304.27"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="1.92s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="1.92s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="807.74"
+            cy="115.73"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="2.27s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="2.27s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="838.06"
+            cy="260.96"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="2.00s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="2.00s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="838.06"
+            cy="159.04"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="2.35s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="2.35s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="868.39"
+            cy="199.38"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="2.08s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="2.08s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="868.39"
+            cy="220.62"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="2.43s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="2.43s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="898.71"
+            cy="141.61"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="2.16s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="2.16s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="898.71"
+            cy="278.39"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="2.51s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="2.51s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="929.03"
+            cy="108.35"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="2.24s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="2.24s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="929.03"
+            cy="311.65"
+            r="7.00"
+            fill="#00F7FF"
+            opacity="0.35"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.00;10.00;7.00"
+                dur="2.8s"
+                begin="2.59s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.35;1;0.35"
+                dur="2.8s"
+                begin="2.59s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="959.35"
+            cy="111.54"
+            r="7.08"
+            fill="#00F7FF"
+            opacity="0.36"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.08;10.08;7.08"
+                dur="2.8s"
+                begin="2.32s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.36;1;0.36"
+                dur="2.8s"
+                begin="2.32s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="959.35"
+            cy="308.46"
+            r="7.08"
+            fill="#00F7FF"
+            opacity="0.36"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="7.08;10.08;7.08"
+                dur="2.8s"
+                begin="2.67s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.36;1;0.36"
+                dur="2.8s"
+                begin="2.67s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="989.68"
+            cy="150.02"
+            r="8.33"
+            fill="#00F7FF"
+            opacity="0.52"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="8.33;11.33;8.33"
+                dur="2.8s"
+                begin="2.40s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.52;1;0.52"
+                dur="2.8s"
+                begin="2.40s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="989.68"
+            cy="269.98"
+            r="8.33"
+            fill="#00F7FF"
+            opacity="0.52"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="8.33;11.33;8.33"
+                dur="2.8s"
+                begin="2.75s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="0.52;1;0.52"
+                dur="2.8s"
+                begin="2.75s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="1020.00"
+            cy="210.00"
+            r="12.00"
+            fill="#00F7FF"
+            opacity="1.00"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="12.00;15.00;12.00"
+                dur="2.8s"
+                begin="2.48s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="1.00;1;1.00"
+                dur="2.8s"
+                begin="2.48s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+        <circle
+            cx="1020.00"
+            cy="210.00"
+            r="12.00"
+            fill="#00F7FF"
+            opacity="1.00"
+            filter="url(#glow)"
+        >
+            <animate
+                attributeName="r"
+                values="12.00;15.00;12.00"
+                dur="2.8s"
+                begin="2.83s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="1.00;1;1.00"
+                dur="2.8s"
+                begin="2.83s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    
+
+
+<!-- LEGEND -->
+
+<text
+    x="70"
+    y="385"
+    fill="#8B949E"
+    font-family="JetBrains Mono, monospace"
+    font-size="11"
+>
+    LOW ACTIVITY
+</text>
+
+
+<line
+    x1="180"
+    y1="380"
+    x2="280"
+    y2="380"
+    stroke="#00F7FF"
+    stroke-width="3"
+    opacity="0.35"
+/>
+
+
+<line
+    x1="290"
+    y1="380"
+    x2="390"
+    y2="380"
+    stroke="#00F7FF"
+    stroke-width="3"
+    opacity="0.7"
+/>
+
+
+<line
+    x1="400"
+    y1="380"
+    x2="500"
+    y2="380"
+    stroke="#00F7FF"
+    stroke-width="3"
+    opacity="1"
+/>
+
+
+<text
+    x="515"
+    y="385"
+    fill="#00F7FF"
+    font-family="JetBrains Mono, monospace"
+    font-size="11"
+>
+    HIGH ACTIVITY
+</text>
+
+
+</svg>
