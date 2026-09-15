@@ -157,13 +157,12 @@ The best work will appear here.
 
 # `06` — CONTRIBUTION DNA
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bhav-17/bhav-17/output/dna-contribution.svg"
-  alt="GitHub Contribution DNA"
-  width="100%">
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bhav-17/bhav-17/output/dna-contribution.svg?v=2"
+    alt="GitHub Contribution DNA"
+    width="100%"/>
+</p>
 ---
 
 # `07` — THE PROCESS
