@@ -215,31 +215,21 @@ SHIP
 ---
 
 # `09` — CONNECT
+<br>
+Mail:<a href="mailto:prakashbhavya.1720@gmail.com">prakashbhavya.1720@gmail.com</a> <br>
+Github:<a href="https://github.com/bhav-17">bhav-17</a> <br>
+LinkedIn:<a href="https://www.linkedin.com/in/bhavya-prakash17/">bhavya-prakash17</a> 
 
-<div align="center">
-
-<a href="https://github.com/bhav-17">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bhavya-prakash17/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-</a>
-
-<a href="mailto:prakashbhavya.1720@gmail.com">
-<img src="https://img.shields.io/badge/MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
-</a>
-
-<br><br>
+<br>
 
 ```text
-                            ╭────────────────────────────────────────────────────────────╮
-                            │                                                            │
-                            │                    CODE. CREATE. REPEAT.                   │
-                            │                                                            │
-                            │           ───── ALWAYS BUILD. NEVER STOP. ─────            │
-                            │                                                            │
-                            ╰────────────────────────────────────────────────────────────╯
+                  ╭────────────────────────────────────────────────────────────╮
+                  │                                                            │
+                  │                    CODE. CREATE. REPEAT.                   │
+                  │                                                            │
+                  │           ───── ALWAYS BUILD. NEVER STOP. ─────            │
+                  │                                                            │
+                  ╰────────────────────────────────────────────────────────────╯
 ```
 
 </div>
