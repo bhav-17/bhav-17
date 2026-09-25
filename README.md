@@ -214,8 +214,9 @@ SHIP
 
 ---
 
-# `09` — CONNECT 📨
+# `09` — CONNECT 
 <br>
+**Contact📩** <br>
 Mail:<a href="mailto:prakashbhavya.1720@gmail.com">prakashbhavya.1720@gmail.com</a> <br>
 Github:<a href="https://github.com/bhav-17">bhav-17</a> <br>
 LinkedIn:<a href="https://www.linkedin.com/in/bhavya-prakash17/">bhavya-prakash17</a> 
