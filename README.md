@@ -292,17 +292,6 @@ Open to collaborations, learning opportunities and interesting ideas.
 </table>
 
 <br>
-
-```text
-╭────────────────────────────────────────────────────────╮
-│                                                        │
-│                  CODE. CREATE. REPEAT.                 │
-│                                                        │
-│          ───── ALWAYS BUILD. NEVER STOP. ─────         │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
-```
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:111111,100:000000&height=120&section=footer" alt="footer"/>
