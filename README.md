@@ -1,32 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00F7FF&height=220&section=header&text=BHAVYA%20PRAKASH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00F7FF&height=240&section=header&text=BHAVYA%20PRAKASH&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" alt="Bhavya Prakash banner"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Bhavya.exe...;%3E+Loading+developer+mode...;%3E+Building+the+future...;%3E+while+(alive)+%7B+code()%3B+%7D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Bhavya.exe...;%3E+Loading+developer+mode...;%3E+Building+the+future...;%3E+while+(alive)+%7B+code()%3B+%7D" alt="Typing animation"/>
 
 <br><br>
 
 <a href="https://github.com/bhav-17">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/bhavya-prakash17/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:prakashbhavya.1720@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=bhav-17&label=PROFILE+VIEWS&color=00F7FF&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=bhav-17&label=PROFILE+VIEWS&color=00F7FF&style=flat" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/bhav-17?label=FOLLOWERS&style=flat&color=00F7FF&labelColor=000000" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/bhav-17?label=STARS&style=flat&color=00F7FF&labelColor=000000&affiliations=OWNER" alt="Stars"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2" alt=""/>
+
+<br>
 
 # `01` — WHO AM I?
 
@@ -37,7 +39,7 @@
 
 ### 👋 A LITTLE ABOUT ME
 
-I'm a **Computer Science Student** turning curiosity into code and ideas into projects.
+I'm a **Computer Science student** turning curiosity into code and ideas into projects.
 
 <br>
 
@@ -62,10 +64,10 @@ LEARN → BUILD → BREAK → DEBUG → SHIP
 
 | | |
 |---|---|
-| 💻 **Building** | Web Development Projects |
-| 🎨 **Exploring** | UI/UX & Frontend Design |
-| 🐍 **Working With** | C++ & Python |
-| 🚀 **Growing Through** | Projects & Real-World Experience |
+| 💻 **Building** | Web development projects |
+| 🎨 **Exploring** | UI/UX & frontend design |
+| 🐍 **Working with** | C++ & Python |
+| 🚀 **Growing through** | Projects & real-world experience |
 
 </td>
 
@@ -77,7 +79,6 @@ LEARN → BUILD → BREAK → DEBUG → SHIP
 <div align="center">
 
 > ### **I don't just want to write code.**
->
 > ### **I want to turn ideas into things people can actually use.**
 
 </div>
@@ -90,13 +91,19 @@ LEARN → BUILD → BREAK → DEBUG → SHIP
 
 ### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&perline=6"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&perline=6" alt="Languages"/>
 
 <br><br>
 
 ### TOOLS & TECHNOLOGIES
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=5"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=5" alt="Tools"/>
+
+<br><br>
+
+### TOP LANGUAGES (BY CODE)
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav-17&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
 
 </div>
 
@@ -110,13 +117,64 @@ LEARN → BUILD → BREAK → DEBUG → SHIP
 
 </div>
 
+<!--
+  HOW TO ADD A PROJECT: replace one "coming soon" card below with a real one, e.g.
+
+  <a href="https://github.com/bhav-17/YOUR-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhav-17&repo=YOUR-REPO&theme=radical&hide_border=true" />
+  </a>
+-->
+
+<table>
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+### 🚧 PROJECT 01
+**Coming soon**
+
+<sub>`HTML` · `CSS` · `JS`</sub>
+
+<sub>A web project in progress.</sub>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🚧 PROJECT 02
+**Coming soon**
+
+<sub>`C++` · `Python`</sub>
+
+<sub>Experiments in problem solving.</sub>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🚧 PROJECT 03
+**Coming soon**
+
+<sub>`UI/UX` · `Figma`</sub>
+
+<sub>A design-meets-code build.</sub>
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
 ```text
-🚧 FEATURED PROJECTS — COMING SOON
-
-Currently building and refining projects.
-
-The best work will appear here.
+Currently building and refining. The best work will appear here.
 ```
+
+<a href="https://github.com/bhav-17?tab=repositories">
+<img src="https://img.shields.io/badge/BROWSE%20ALL%20REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=00F7FF" alt="All repositories"/>
+</a>
+
+</div>
 
 ---
 
@@ -150,6 +208,18 @@ The best work will appear here.
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhav-17&theme=radical"
   alt="GitHub Stats"
 />
+<img
+  height="165"
+  src="https://streak-stats.demolab.com?user=bhav-17&theme=radical&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+<br><br>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=bhav-17&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
@@ -163,6 +233,7 @@ The best work will appear here.
     alt="GitHub Contribution DNA"
     width="100%"/>
 </p>
+
 ---
 
 # `07` — THE PROCESS
@@ -170,22 +241,14 @@ The best work will appear here.
 <div align="center">
 
 ```text
-IDEA
- ↓
-RESEARCH
- ↓
-DESIGN
- ↓
-BUILD
- ↓
-TEST
- ↓
-DEBUG
- ↓
-SHIP
+ ┌──────┐   ┌──────────┐   ┌────────┐   ┌───────┐
+ │ IDEA │ → │ RESEARCH │ → │ DESIGN │ → │ BUILD │
+ └──────┘   └──────────┘   └────────┘   └───┬───┘
+                                            ↓
+ ┌──────┐   ┌───────┐   ┌───────┐   ┌───────────┐
+ │ SHIP │ ← │ DEBUG │ ← │ TEST  │ ← │  ITERATE  │
+ └──────┘   └───────┘   └───────┘   └───────────┘
 ```
-
-<br>
 
 > `Progress > perfection.`
 
@@ -214,25 +277,43 @@ SHIP
 
 ---
 
-# `09` — CONNECT 
-<br>
-# Contact📩 <br><br>
-Mail:<a href="mailto:prakashbhavya.1720@gmail.com">prakashbhavya.1720@gmail.com</a> <br>
-Github:<a href="https://github.com/bhav-17">bhav-17</a> <br>
-LinkedIn:<a href="https://www.linkedin.com/in/bhavya-prakash17/">bhavya-prakash17</a> 
+# `09` — CONNECT
 
-<br><br>
+<div align="center">
+
+### 📩 LET'S BUILD SOMETHING
+
+Open to collaborations, learning opportunities and interesting ideas.
+
+<br>
+
+<table>
+<tr>
+<td align="center"><b>📧 Mail</b></td>
+<td><a href="mailto:prakashbhavya.1720@gmail.com">prakashbhavya.1720@gmail.com</a></td>
+</tr>
+<tr>
+<td align="center"><b>🐙 GitHub</b></td>
+<td><a href="https://github.com/bhav-17">bhav-17</a></td>
+</tr>
+<tr>
+<td align="center"><b>💼 LinkedIn</b></td>
+<td><a href="https://www.linkedin.com/in/bhavya-prakash17/">bhavya-prakash17</a></td>
+</tr>
+</table>
+
+<br>
 
 ```text
-                  ╭────────────────────────────────────────────────────────────╮
-                  │                                                            │
-                  │                    CODE. CREATE. REPEAT.                   │
-                  │                                                            │
-                  │           ───── ALWAYS BUILD. NEVER STOP. ─────            │
-                  │                                                            │
-                  ╰────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│                  CODE. CREATE. REPEAT.                 │
+│                                                        │
+│          ───── ALWAYS BUILD. NEVER STOP. ─────         │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:111111,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:111111,100:000000&height=120&section=footer" alt="footer"/>
