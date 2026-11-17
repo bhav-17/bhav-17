@@ -100,11 +100,6 @@ LEARN → BUILD → BREAK → DEBUG → SHIP
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=5" alt="Tools"/>
 
 <br><br>
-
-### TOP LANGUAGES (BY CODE)
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav-17&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
-
 </div>
 
 ---
