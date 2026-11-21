@@ -91,13 +91,13 @@ LEARN → BUILD → BREAK → DEBUG → SHIP
 
 ### LANGUAGES
 
-<img src="https://stats.pphat.top/icons?name=c,cpp,python,html,css,javascript&size=large&columns=6&effect=glow" alt="Programming languages and web technologies"/>
+<img src="https://stats.pphat.top/icons?name=c,cpp,python,html,css,javascript&size=large&columns=6&effect=wave" alt="Programming languages and web technologies"/>
 
 <br><br>
 
 ### TOOLS & TECHNOLOGIES
 
-<img src="https://stats.pphat.top/icons?name=git,github,vscode,figma,linux&size=large&columns=5&effect=glow" alt="Tools and technologies"/>
+<img src="https://stats.pphat.top/icons?name=git,github,vscode,figma,linux&size=large&columns=5&effect=wave" alt="Tools and technologies"/>
 
 <br><br>
 </div>
@@ -228,7 +228,7 @@ Currently building and refining. The best work will appear here.
 <div align="center">
 
 <img
-  src="https://stats.pphat.top/badges?username=bhav-17&name=repositories,total-commits,total-issues,total-pull-requests,total-code-reviews,total-contributors&column=3&theme=ocean&effect=glow&size=medium&p=12"
+  src="https://stats.pphat.top/badges?username=bhav-17&name=repositories,total-commits,total-issues,total-pull-requests,total-code-reviews,total-contributors&column=3&theme=ocean&effect=wave&size=medium&p=12"
   alt="GitHub profile achievement badges"
 />
 
