@@ -91,13 +91,13 @@ LEARN → BUILD → BREAK → DEBUG → SHIP
 
 ### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&perline=6" alt="Languages"/>
+<img src="https://stats.pphat.top/icons?name=c,cpp,python,html,css,javascript&size=large&columns=6&effect=glow" alt="Programming languages and web technologies"/>
 
 <br><br>
 
 ### TOOLS & TECHNOLOGIES
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=5" alt="Tools"/>
+<img src="https://stats.pphat.top/icons?name=git,github,vscode,figma,linux&size=large&columns=5&effect=glow" alt="Tools and technologies"/>
 
 <br><br>
 </div>
@@ -192,24 +192,46 @@ Currently building and refining. The best work will appear here.
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhav-17&theme=radical"
-  alt="GitHub Profile Details"
+  src="https://stats.pphat.top/stats?username=bhav-17&theme=tokyonight&avatar_mode=radar&show_icons=true"
+  alt="GitHub statistics"
 />
 
 <br><br>
 
 <img
-  height="165"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhav-17&theme=radical"
-  alt="GitHub Stats"
+  src="https://stats.pphat.top/languages?username=bhav-17&type=card&theme=tokyonight&show_info=true"
+  height="190"
+  alt="Most used programming languages"
 />
 <img
-  height="165"
-  src="https://streak-stats.demolab.com?user=bhav-17&theme=radical&hide_border=true"
-  alt="GitHub Streak"
+  src="https://stats.pphat.top/languages?username=bhav-17&type=pie&theme=tokyonight"
+  height="190"
+  alt="Programming language distribution"
 />
 
 <br><br>
+
+<img
+  src="https://stats.pphat.top/graph?username=bhav-17&animate=wave&theme=aurora"
+  width="100%"
+  alt="Animated GitHub contribution graph"
+/>
+
+<br><br>
+
+</div>
+
+---
+
+# `06` — GITHUB BADGES
+
+<div align="center">
+
+<img
+  src="https://stats.pphat.top/badges?username=bhav-17&name=repositories,total-commits,total-issues,total-pull-requests,total-code-reviews,total-contributors&column=3&theme=ocean&effect=glow&size=medium&p=12"
+  alt="GitHub profile achievement badges"
+/>
+
 </div>
 
 ---
