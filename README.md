@@ -203,11 +203,6 @@ Currently building and refining. The best work will appear here.
   height="190"
   alt="Most used programming languages"
 />
-<img
-  src="https://stats.pphat.top/languages?username=bhav-17&type=pie&theme=tokyonight"
-  height="190"
-  alt="Programming language distribution"
-/>
 
 <br><br>
 
