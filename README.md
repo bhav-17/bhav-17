@@ -228,7 +228,7 @@ Currently building and refining. The best work will appear here.
 <div align="center">
 
 <img
-  src="https://stats.pphat.top/badges?username=bhav-17&name=repositories,total-commits,total-issues,total-pull-requests,total-code-reviews,total-contributors&column=3&theme=ocean&effect=wave&size=medium&p=12"
+  src="https://stats.pphat.top/badges?username=bhav-17&name=repositories,total-commits,total-issues,total-pull-requests,total-code-reviews,total-contributors&column=3&theme=ocean&size=medium&p=12"
   alt="GitHub profile achievement badges"
 />
 
